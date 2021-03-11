@@ -80,3 +80,11 @@ namespace MyApplication
 |---    |---        |---        |
 |Juan   |Vasquez    |123        |
 |Esteban|Ossa       |456        |
+
+
+# CITAS
+Esto es un texto para el cual le pondremos una cita: 
+> Esta es la cita
+
+Este es otro texto para otra cita
+>Esta es la otra cita
