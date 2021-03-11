@@ -9,3 +9,11 @@ Underline 1
 -------
 Underline 2
 =======
+
+- Formato *italica* 1
+- Formato _italica_ 2
+
+- Formato **negrilla** 1
+- Formato __negrilla__ 2
+
+- Formato ~~tachada~~ unico
