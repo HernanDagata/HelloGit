@@ -1,4 +1,5 @@
-# README
+# VERSION DEL CURSO
+### V1.2.2
 
 # CABECERAS
 # Cabecera h1
@@ -104,3 +105,6 @@ Este es el primer parrafo (Doble enter)
 Este es el segundo parrafo (Doble enter)
 
 Este es el tercer parrafo (Doble enter)
+
+
+###### By: *hernan dagata* 10-03-2021
