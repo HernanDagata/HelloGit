@@ -14,9 +14,9 @@ Underline 1
 Underline 2
 =======
 
-# ENFASIS
 - Formato *italica* 1
 - Formato _italica_ 2
+# ENFASIS
 - Formato **negrilla** 1
 - Formato __negrilla__ 2
 - Formato ~~tachada~~ unico
@@ -24,8 +24,8 @@ Underline 2
 # LISTAS
 ### Ordenada
 1. item 
-2. item 
 3. item 
+2. item 
  ### Desordenada
  - item
  - item
