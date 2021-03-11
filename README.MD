@@ -98,3 +98,9 @@ Esta es la otra parte del texto
 Esta es la ultima
 ___
 
+# SALTOS DE LINEAS
+Este es el primer parrafo (Doble enter)
+
+Este es el segundo parrafo (Doble enter)
+
+Este es el tercer parrafo (Doble enter)
