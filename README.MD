@@ -74,3 +74,9 @@ namespace MyApplication
     }
 }
 ```
+
+# TABLAS
+|Nombre |Apellido   | Documento |
+|---    |---        |---        |
+|Juan   |Vasquez    |123        |
+|Esteban|Ossa       |456        |
