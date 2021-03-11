@@ -30,3 +30,7 @@ Underline 2
  - item
  - item
  - item
+
+ # LINKS
+- <a href="www.google.com"> Link html</a>
+- [Link markdown](www.google.com)
