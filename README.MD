@@ -88,3 +88,13 @@ Esto es un texto para el cual le pondremos una cita:
 
 Este es otro texto para otra cita
 >Esta es la otra cita
+
+# LINEAS DIVISORAS
+Esto es un texto que se va a dividir
+
+--- 
+Esta es la otra parte del texto
+***
+Esta es la ultima
+___
+
